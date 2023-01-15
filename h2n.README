@@ -1,0 +1,3 @@
+The files in the h2n subdirectory are the original h2n, as distributed with
+earlier editions of "DNS and BIND."  The files in the h2n-hp subdirectory
+are an enhanced version of h2n, contributed by Andris Kalnozols of HP Labs.
